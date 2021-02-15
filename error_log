@@ -1,0 +1,4 @@
+[10-Apr-2020 15:08:33 America/New_York] PHP Warning:  require(/home/zahihcwr/public_html/../vendor/autoload.php): failed to open stream: No such file or directory in /home/zahihcwr/public_html/index.php on line 26
+[10-Apr-2020 15:08:33 America/New_York] PHP Fatal error:  require(): Failed opening required '/home/zahihcwr/public_html/../vendor/autoload.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/zahihcwr/public_html/index.php on line 26
+[10-May-2020 03:51:52 UTC] PHP Fatal error:  Cannot redeclare App\Models\FoodOrder::getExtrasAttribute() in /home/zahihcwr/public_html/app/Models/FoodOrder.php on line 117
+[19-May-2020 01:45:56 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\API\cashier\UserAPIController::update() in /home/zahihcwr/public_html/app/Http/Controllers/API/cashier/UserAPIController.php on line 312
